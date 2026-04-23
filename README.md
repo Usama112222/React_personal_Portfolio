@@ -52,22 +52,21 @@ A modern, responsive personal portfolio built using React + Vite with smooth ani
 
 Clone the repository:
 
-```bash
+
 git clone https://github.com/Usama112222/React_personal_Portfolio
 Install dependencies:
-
 npm install
 Run locally:
-
 npm run dev
 Build project:
-
 npm run build
-🚀 Deployment
+
+
+## 🚀 Deployment
 Deployed on Vercel.
 
-📬 Contact
-Usama Liaqat
+## 📬 Contact
+## Usama Liaqat
 Software Engineer
 Email: ukiyani318@gmail.com
 
